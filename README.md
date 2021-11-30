@@ -3,5 +3,5 @@ This is a theme repository for [squido](https://squido.org) static website gener
 ## Screenshot
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mrvautin/squido-theme-cart/main/source/content/images/screenshot.png">
+    <img src="https://raw.githubusercontent.com/mrvautin/squido-theme-cart/main/source/content/images/screenshot.jpg">
 </p>
