@@ -7,7 +7,7 @@ author: Mark Moffat
 ---
 
 <div class="col-12 col-lg-5 offset-lg-1 mt-5 mb-lg-5">
-	<img src="/content/images/about.jpeg">
+	<img src="/content/images/about.jpg">
 </div>
 <div class="col-12 col-lg-5 p-3 p-lg-5 align-middle mt-lg-5 mb-5">
 	<h1 class="mb-5 mt-5 mb-5">Our Story</h1>
