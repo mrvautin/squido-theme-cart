@@ -22,7 +22,7 @@ const config = {
         name: 'squido cart',
         description: 'Welcome to squido cart. Great clothes, made simple!',
         twitterHandle: '@mrvautin',
-        baseUrl: 'https://cart.squido.org',
+        baseUrl: 'https://squido-cart.markmoffat.com',
         sourcesExt: 'markdown',
         summaryLength: 250,
         port: 4965,
